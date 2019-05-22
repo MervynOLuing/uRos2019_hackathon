@@ -1,0 +1,18 @@
+R> data("swissmunicipalities", package = "sampling")
+we get the swissmunicipalities data frame, that contains 2,896 observations (each obser-
+vation refers to a Swiss municipality in 2003). Among the others, we can find the following
+variables:
+ REG: Swiss region,
+ Nom: municipality name,
+ Surfacesbois: wood area,
+ Surfacescult: area under cultivation,
+ Alp: mountain pasture area,
+ Airbat: area with buildings,
+ Airind: industrial area,
+ Pop020: number of men and women aged between 0 and 19,
+ Pop2040: number of men and women aged between 20 and 39,10
+ Pop4065: number of men and women aged between 40 and 64,
+ Pop65P: number of men and women aged 65 and over,
+ POPTOT: total population.
+
+Source: SamplingStrata JSS https://www.jstatsoft.org/index.php/jss/article/view/v061i04/v61i04.pdf
